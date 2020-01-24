@@ -30,3 +30,6 @@ Descarga el archivo Dawscape.jar y hazle doble click, el juego se abrirá ¡y ya
 Descarga todos los archivos del repositorio y compílalos con cualquier IDE con Java (Eclipse, NetBeans...).
 
 Debes importar la librería zip4j para poder exportar e importar partidas. [Pulsa para descargar la librería](zip4j-1.3.2.jar)
+
+
+I.E.S. Hermanos Machado | Programación | Irene Viñas | Mayo 2019
