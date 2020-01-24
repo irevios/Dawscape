@@ -1,7 +1,7 @@
 ![Logo](img/Interfaz/titulo.png)
 
 # Dawscape
-Un escape room creado con Java Swing, utilizando el patrón Modelo-Vista-Controlador para definir:
+Un escape room creado el 7/5/2019 con Java Swing, utilizando el patrón Modelo-Vista-Controlador para definir:
 
 ### Modelo
 
