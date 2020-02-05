@@ -24,7 +24,7 @@ Hace de conexión entre el modelo y la vista.
 #### Directo
 Debes tener instalado java en tu equipo -> [Instalador](https://www.java.com/es/download/)
 
-Descarga el archivo Dawscape.jar y hazle doble click, el juego se abrirá ¡y ya podrás jugar!
+Descarga el archivo [Dawscape.jar](Dawscape.jar) y hazle doble click, el juego se abrirá ¡y ya podrás jugar!
 
 #### Manual
 Descarga todos los archivos del repositorio y compílalos con cualquier IDE con Java (Eclipse, NetBeans...).
